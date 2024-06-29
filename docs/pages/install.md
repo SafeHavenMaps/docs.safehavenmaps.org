@@ -43,3 +43,9 @@ docker run -d \
 ```
 
 Tweak the variables to match your environment.
+
+## First login
+
+Once the container is up and running for the first time, an admin user will be automatically created.
+
+You can access the administration interface at `/admin` and login with the credentials given in the logs.
