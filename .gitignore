@@ -1,0 +1,5 @@
+.DS_Store
+.direnv
+.idea
+result
+node_modules

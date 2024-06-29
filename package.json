@@ -1,0 +1,13 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Documentation for safehaven",
+  "scripts": {
+    "dev": "docsify serve docs -p 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
